@@ -1,1 +1,1 @@
-print("okey")
+print("eerst oefenen")
